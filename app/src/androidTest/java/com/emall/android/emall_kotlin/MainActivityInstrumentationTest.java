@@ -4,8 +4,9 @@ import android.support.test.InstrumentationRegistry;
 import android.support.test.espresso.action.ViewActions;
 import android.support.test.rule.ActivityTestRule;
 import android.support.test.runner.AndroidJUnit4;
-import android.test.ActivityInstrumentationTestCase2;
 import android.test.suitebuilder.annotation.LargeTest;
+
+import com.emall.android.mall.ui.activity.MainActivity;
 
 import org.junit.After;
 import org.junit.Before;
